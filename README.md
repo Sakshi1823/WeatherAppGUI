@@ -1,8 +1,20 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 # 🌦️ Weather App GUI
 
 A simple and clean **Weather Application GUI** built using **Java**.  
 This project focuses on designing a user-friendly interface and understanding the structure of a desktop-based Java application.
 
+---
+
+## 📸 Preview
+
+![Weather App Preview](calculator.png)
+
+---
 
 ## ✨ Features
 - Clean and simple graphical user interface  
@@ -23,17 +35,5 @@ This project focuses on designing a user-friendly interface and understanding th
 ---
 
 ## 📂 Project Structure
-WeatherAppGUI/
-│── src/
-│ ├── AppLauncher.java
-│ ├── WeatherApp.java
-│ └── WeatherAppGUI.java
-│
-│── assets/
-│
-│── lib/
-│ └── json-simple-1.1.1.jar
-│
-│── .gitignore
-│── LICENSE
-│── README.md
+
+<img width="377" height="450" alt="image" src="https://github.com/user-attachments/assets/bb9fdd58-2473-4411-8dab-9d74fee3e948" />
