@@ -23,3 +23,15 @@ This project focuses on designing a user-friendly interface and understanding th
 ---
 
 ## 📂 Project Structure
+WeatherAppGUI/
+│── src/
+│ ├── AppLauncher.java
+│ ├── WeatherApp.java
+│ └── WeatherAppGUI.java
+│
+│── assets/
+│── lib/
+│ └── json-simple-1.1.1.jar
+│── .gitignore
+│── LICENSE
+│── README.md
