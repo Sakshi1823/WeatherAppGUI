@@ -28,4 +28,17 @@ This project focuses on designing a user-friendly interface and understanding th
 
 ## 📂 Project Structure
 
-<img width="377" height="450" alt="image" src="https://github.com/user-attachments/assets/bb9fdd58-2473-4411-8dab-9d74fee3e948" />
+WeatherAppGUI/
+│── src/
+│ ├── AppLauncher.java
+│ ├── WeatherApp.java
+│ └── WeatherAppGUI.java
+│
+│── assets/
+│
+│── lib/
+│ └── json-simple-1.1.1.jar
+│
+│── .gitignore
+│── LICENSE
+│── README.md
