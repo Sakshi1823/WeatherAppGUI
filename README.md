@@ -6,13 +6,7 @@
 A simple and clean **Weather Application GUI** built using **Java**.  
 This project focuses on designing a user-friendly interface and understanding the structure of a desktop-based Java application.
 
----
 
-## 📸 Preview
-
-![Weather App Preview](calculator.png)
-
----
 
 ## ✨ Features
 - Clean and simple graphical user interface  
