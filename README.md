@@ -25,7 +25,3 @@ This project focuses on designing a user-friendly interface and understanding th
 - IDE: IntelliJ IDEA / VS Code
 
 ---
-
-
-│── LICENSE
-│── README.md
