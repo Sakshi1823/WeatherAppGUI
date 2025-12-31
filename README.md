@@ -30,8 +30,10 @@ WeatherAppGUI/
 │ └── WeatherAppGUI.java
 │
 │── assets/
+│
 │── lib/
 │ └── json-simple-1.1.1.jar
+│
 │── .gitignore
 │── LICENSE
 │── README.md
