@@ -78,4 +78,4 @@ cd WeatherAppGUI
 
 ---
 
-<p align="center">Built by <a href="https://github.com/Sakshi1823">Sakshi Hingamire</a> · ECE @ VIT Pune</p>
+<p align="center">Built by <a href="https://github.com/Sakshi1823">Sakshi Hingamire</a> </p>
